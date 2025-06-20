@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Name": "Gorav22",
+        "TotalMark": 60,
+        "TrustScore": 55,
+        "Status": "Fail(Cheating)",
+        "Date": "2025-04-11",
+        "StId": 1,
+        "Link": "gorav_002Profile.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "gorav",
+        "TotalMark": 13,
+        "TrustScore": 84.5,
+        "Status": "Fail",
+        "Date": "2025-06-20",
+        "StId": 1,
+        "Link": "gorav_002Profile.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "gorav02",
+        "TotalMark": 86,
+        "TrustScore": 59.0,
+        "Status": "Fail(Cheating)",
+        "Date": "2025-06-20",
+        "StId": 3,
+        "Link": "gorav02_003Profile.jpg"
+    }
+]

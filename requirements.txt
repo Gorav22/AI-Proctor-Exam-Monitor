@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+YOLOv8
+Dlib
+Flask 
+MySQL
+PyAutoGUI
+PyGetWindow

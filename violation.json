@@ -1,0 +1,146 @@
+[
+    {
+        "Name": "Looking Right",
+        "Time": "2023-09-11 00:47:48",
+        "Duration": "1 seconds",
+        "Mark": 1,
+        "Link": "HeadViolation29539.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:47:54",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "16642VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2023-09-11 00:47:58",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "FDViolation6398.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:06",
+        "Duration": "6 seconds",
+        "Mark": 6,
+        "Link": "21395VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Move away from the Test",
+        "Time": "2023-09-11 00:48:11",
+        "Duration": "3 seconds",
+        "Mark": 6,
+        "Link": "SDViolation46692.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:30",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "28647VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Move away from the Test",
+        "Time": "2023-09-11 00:48:41",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "SDViolation19758.mp4",
+        "RId": 1
+    },
+    {
+        "Name": "Common Noise is detected.",
+        "Time": "2023-09-11 00:48:47",
+        "Duration": "5 seconds",
+        "Mark": 5,
+        "Link": "32295VoiceViolation.wav",
+        "RId": 1
+    },
+    {
+        "Name": "Prohibited Shorcuts (Alt+Tab,Ctrl+V) are detected.",
+        "Time": "6 Counts",
+        "Duration": "",
+        "Mark": 9,
+        "Link": "",
+        "RId": 1
+    },
+    {
+        "Name": "Looking Down",
+        "Time": "2025-06-20 15:45:23",
+        "Duration": "2 seconds",
+        "Mark": 2,
+        "Link": "HeadViolation8523.mp4",
+        "RId": 2
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2025-06-20 15:45:52",
+        "Duration": "3 seconds",
+        "Mark": 6,
+        "Link": "FDViolation9675.mp4",
+        "RId": 2
+    },
+    {
+        "Name": "Prohibited Shorcuts (Ctrl+A,Ctrl+C) are detected.",
+        "Time": "5 Counts",
+        "Duration": "",
+        "Mark": 7.5,
+        "Link": "",
+        "RId": 2
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2025-06-20 15:59:54",
+        "Duration": "4 seconds",
+        "Mark": 8,
+        "Link": "FDViolation23191.mp4",
+        "RId": 3
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2025-06-20 16:00:09",
+        "Duration": "2 seconds",
+        "Mark": 4,
+        "Link": "FDViolation27141.mp4",
+        "RId": 3
+    },
+    {
+        "Name": "Looking Down",
+        "Time": "2025-06-20 16:00:36",
+        "Duration": "1 seconds",
+        "Mark": 1,
+        "Link": "HeadViolation9276.mp4",
+        "RId": 3
+    },
+    {
+        "Name": "Verified Student disappeared",
+        "Time": "2025-06-20 16:00:49",
+        "Duration": "3 seconds",
+        "Mark": 6,
+        "Link": "FDViolation43459.mp4",
+        "RId": 3
+    },
+    {
+        "Name": "Looking Down",
+        "Time": "2025-06-20 16:01:29",
+        "Duration": "1 seconds",
+        "Mark": 1,
+        "Link": "HeadViolation21917.mp4",
+        "RId": 3
+    },
+    {
+        "Name": "Prohibited Shorcuts (Ctrl+A,Ctrl+C,Ctrl+V,Prt Scn) are detected.",
+        "Time": "14 Counts",
+        "Duration": "",
+        "Mark": 21.0,
+        "Link": "",
+        "RId": 3
+    }
+]
