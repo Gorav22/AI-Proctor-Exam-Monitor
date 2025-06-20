@@ -37,7 +37,7 @@ The features included in the project are as follows:
 9. PyGetWindow
 
 ## Getting Started
-- First, you need to clone the repo: `https://github.com/Gorav22/The-Online-Exam-Proctor.git`
+- First, you need to clone the repo: `https://github.com/Gorav22/AI-Proctor-Exam-Monitor.git`
 - Run the `requirements.txt` file for the installation.
 - Run the `app.py` file.
 
